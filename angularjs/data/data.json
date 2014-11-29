@@ -1,0 +1,130 @@
+[
+   {
+      "name":"Motorola Moto E",
+      "shortname":"Moto E",
+      "display":{
+         "type":"Capacitive touchscreen, 16M colors",
+         "size":"540 x 960 pixels",
+         "protection":"Gorilla Glass 3"
+      },
+      "memory":{
+         "cardslot":true,
+         "internal":"4GB",
+         "ram":"1GB"
+      },
+      "camera":{
+         "primary":"5 MP, 2592 x 1944 pixels",
+         "secondary":"No"
+      },
+      "os":{
+         "name":"Android KitKat",
+         "version":"4.4.2"
+      },
+      "images":[
+         "moto-e/1.jpg",
+         "moto-e/2.jpg"
+      ]
+   },
+   {
+      "name":"Motorola Moto G",
+      "shortname":"Moto G",
+      "display":{
+         "type":"IPS LCD Capacitive touchscreen, 16M colors",
+         "size":"720 x 1280 pixels",
+         "protection":"Gorilla Glass 3"
+      },
+      "memory":{
+         "cardslot":false,
+         "internal":"8/16GB",
+         "ram":"1GB"
+      },
+      "camera":{
+         "primary":"5 MP, 2592 x 1944 pixels, autofocus, LED flash",
+         "secondary":"1.3 MP"
+      },
+      "os":{
+         "name":"Android Jelly Bean",
+         "version":"4.3"
+      },
+      "images":[
+         "moto-g/1.jpg",
+         "moto-g/2.jpg"
+      ]
+   },
+   {
+      "name":"Motorola Moto Maxx",
+      "shortname":"Moto Maxx",
+      "display":{
+         "type":"OLED Capacitive touchscreen, 16M colors",
+         "size":"1440 x 2560 pixels",
+         "protection":"Gorilla Glass 3, Moto Display"
+      },
+      "memory":{
+         "cardslot":false,
+         "internal":"64GB",
+         "ram":"3GB"
+      },
+      "camera":{
+         "primary":"21 MP, 5248 x 3936 pixels, autofocus, dual-LED flash",
+         "secondary":"2 MP, 1080p"
+      },
+      "os":{
+         "name":"Android KitKat",
+         "version":"4.4.4"
+      },
+      "images":[
+         "moto-maxx/1.jpg"
+      ]
+   },
+   {
+      "name":"Motorola Moto X",
+      "shortname":"Moto X",
+      "display":{
+         "type":"AMOLED Capacitive touchscreen, 16M colors",
+         "size":"1080 x 1920 pixels",
+         "protection":"Gorilla Glass 3"
+      },
+      "memory":{
+         "cardslot":false,
+         "internal":"16/32GB",
+         "ram":"2GB"
+      },
+      "camera":{
+         "primary":"13 MP, 4128 x 3096 pixels, autofocus, dual-LED flash",
+         "secondary":"2 MP, 1080p"
+      },
+      "os":{
+         "name":"Android Lollipop",
+         "version":"5.0"
+      },
+      "images":[
+         "moto-x/1.jpg",
+         "moto-x/2.jpg"
+      ]
+   },
+   {
+      "name":"Motorola Nexus 6",
+      "shortname":"Nexus 6",
+      "display":{
+         "type":"AMOLED Capacitive touchscreen, 16M colors",
+         "size":"1440 x 2560 pixels",
+         "protection":"Gorilla Glass 3"
+      },
+      "memory":{
+         "cardslot":false,
+         "internal":"32/64GB",
+         "ram":"3GB"
+      },
+      "camera":{
+         "primary":"13 MP, 4128 x 3096 pixels, autofocus, optical image stabilization, dual-LED flash",
+         "secondary":"2 MP"
+      },
+      "os":{
+         "name":"Android Lollipop",
+         "version":"5.0"
+      },
+      "images":[
+         "nexus-6/1.jpg"
+      ]
+   }
+]
