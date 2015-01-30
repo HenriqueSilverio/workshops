@@ -1,0 +1,145 @@
+[
+  {
+    "title": "Full Stack Web Development with Backbone.js",
+    "author": "Patrick Mulder",
+    "pages": 194,
+    "category": "backbone",
+    "ISBN": "978-1-4493-7098-5",
+    "thumbSmall": "assets/img/01-sm.jpg",
+    "thumbLarge": "assets/img/01-lg.jpg",
+    "resume": "Learn how to build a full-stack application with Backbone.js by taking advantage of JavaScript modules, workflow automation, and Backbone’s interface building blocks.",
+    "fullDescription": "<p>Learn how to build a full-stack application with Backbone.js by taking advantage of JavaScript modules, workflow automation, and Backbone’s interface building blocks. With this practical guide, author Patrick Mulder takes experienced backend developers and JavaScript programmers through the steps necessary to create a fully functional single-page application.</p> <p>Backbone’s rich ecosystem of plugins makes applications easier to design and scale, but knowing which tools to use for your project can be tricky. How do you combine views and the data layer with Backbone, or serve and deploy JavaScript assets? You’ll not only learn the answers to these and many other questions; you’ll also discover Backbone’s vast number of use cases.</p>"
+  },
+
+  {
+    "title": "Learning JavaScript Design Patterns",
+    "author": "Addy Osmani",
+    "pages": 254,
+    "category": "javascript",
+    "ISBN": "978-1-4493-3181-8",
+    "thumbSmall": "assets/img/02-sm.jpg",
+    "thumbLarge": "assets/img/02-lg.jpg",
+    "resume": "With Learning JavaScript Design Patterns, you’ll learn how to write beautiful, structured, and maintainable JavaScript by applying classical and modern design patterns to the language.",
+    "fullDescription": "<p>With Learning JavaScript Design Patterns, you’ll learn how to write beautiful, structured, and maintainable JavaScript by applying classical and modern design patterns to the language. If you want to keep your code efficient, more manageable, and up-to-date with the latest best practices, this book is for you.</p><p>Explore many popular design patterns, including Modules, Observers, Facades, and Mediators. Learn how modern architectural patterns—such as MVC, MVP, and MVVM—are useful from the perspective of a modern web application developer. This book also walks experienced JavaScript developers through modern module formats, how to namespace code effectively, and other essential topics.</p>"
+  },
+
+  {
+    "title": "Building Backbone Plugins",
+    "author": "Derick Bailey",
+    "pages": 242,
+    "category": "backbone",
+    "ISBN": "978-1-4493-2768-2",
+    "thumbSmall": "assets/img/04-sm.jpg",
+    "thumbLarge": "assets/img/04-lg.jpg",
+    "resume": "From the creator of MarionetteJS - comes a book that will show you how to Eliminate the boilerplate code that plagues your Backbone apps by building the add-ons and abstractions that your app needs.",
+    "fullDescription": "<p>From the creator of MarionetteJS - comes a book that will show you how to Eliminate the boilerplate code that plagues your Backbone apps by building the add-ons and abstractions that your app needs.</p><p>You’re not paid to build frameworks — you’re paid to build apps that solve the needs of your business. Building Backbone Plugins will free you from boilerplate code so you can focus on writing your application’s features.</p><p>Keeping code small and readable is critical as your application evolves. Understanding — at a glance — what the code in any given file does is what makes the difference between being productive and flailing around for hours.</p>"
+  },
+
+  {
+    "title": "Maintainable JavaScript",
+    "author": "Nicholas C. Zakas",
+    "pages": 242,
+    "category": "javascript",
+    "ISBN": "978-1-4493-2768-2",
+    "thumbSmall": "assets/img/03-sm.jpg",
+    "thumbLarge": "assets/img/03-lg.jpg",
+    "resume": "Learn how to build a full-stack application with Backbone.js by taking advantage of JavaScript modules, workflow automation, and Backbone’s interface building blocks.",
+    "fullDescription": "<p>You may have definite ideas about writing code when working alone, but team development requires that everyone use the same approach. With the JavaScript practices in this book—including code style, programming tips, and automation—you will learn how to write maintainable code that other team members can easily understand, adapt, and extend.</p><p>Author Nicholas Zakas assembled this collection of best practices as a front-end tech leader at Yahoo!, after completing his own journey from solo hacker to team player. He also includes rules recommended by other industry authorities. Use these tips and techniques to help your team set aside individual preferences and function at a higher level.</p>"
+  },
+
+  {
+    "title": "Speaking JavaScript",
+    "author": "Axel Rauschmayer",
+    "pages": 460,
+    "category": "javascript",
+    "ISBN": "978-1-4493-6503-5",
+    "thumbSmall": "assets/img/05-sm.jpg",
+    "thumbLarge": "assets/img/05-lg.jpg",
+    "resume": "Like it or not, JavaScript is everywhere these days—from browser to server to mobile—and now you, too, need to learn the language or dive deeper than you have. This concise book guides you into and through JavaScript.",
+    "fullDescription": "<p>Like it or not, JavaScript is everywhere these days—from browser to server to mobile—and now you, too, need to learn the language or dive deeper than you have. This concise book guides you into and through JavaScript, written by a veteran programmer who once found himself in the same position.</p><p>Speaking JavaScript helps you approach the language with four standalone sections. First, a quick-start guide teaches you just enough of the language to help you be productive right away. More experienced JavaScript programmers will find a complete and easy-to-read reference that covers each language feature in depth.</p>"
+  },
+
+  {
+    "title": "Backbone.js Cookbook",
+    "author": "Vadim Mirgorod",
+    "pages": 282,
+    "category": "backbone",
+    "ISBN": "978-1-7821-6272-8",
+    "thumbSmall": "assets/img/06-sm.jpg",
+    "thumbLarge": "assets/img/06-lg.jpg",
+    "resume": "For JavaScript developers the Backbone.js framework is full of potential. This book, with its accessible recipes, allows you to get to grips with building modern frontend web applications, quickly and easily.",
+    "fullDescription": "<p>For JavaScript developers the Backbone.js framework is full of potential. This book, with its accessible recipes, allows you to get to grips with building modern frontend web applications, quickly and easily.</p><p>There is no doubt that the superior rendering power of HTML5, thin-to-thick client transition and REST style communication created a new era in web development, replacing the outdated approach based on browser plugin technologies. Backbone.js allows developers to write lightweight, modular, and scalable JavaScript applications.</p><p>Backbone.js Cookbook contains a series of recipes that provide practical, step-by-step solutions to the problems that may occur during frontend application development using an MVC pattern. You will learn how to build Backbone applications utilizing the power of popular Backbone extensions and integrating your app with different third party libraries. You will also learn how to fulfill the requirements of the most challenging tasks.</p>"
+  },
+
+  {
+    "title": "MongoDB Cookbook",
+    "author": "Amol Nayak",
+    "pages": 388,
+    "category": "nosql",
+    "ISBN": "978-1-7821-6194-3",
+    "thumbSmall": "assets/img/07-sm.jpg",
+    "thumbLarge": "assets/img/07-lg.jpg",
+    "resume": "If you want a reference to show you practical solutions, or just want to satisfy your need for more knowledge of this fantastic NoSQL database, then this book is ideal for you.",
+    "fullDescription": "<p>MongoDB is a high-performance and feature-rich NoSQL database that forms the backbone of numerous complex development systems. You will certainly find the MongoDB solution you are searching for in this book.</p><p>Starting with how to initialize the server in three different modes with various configurations, you will then learn a variety of skills including the basics of advanced query operations and features in MongoDB and monitoring and backup using MMS. From there, you can delve into recipes on cloud deployment, integration with Hadoop, and improving developer productivity. By the end of this book, you will have a clear idea about how to design, develop, and deploy MongoDB.</p>"
+  },
+
+  {
+    "title": "Learning PHP Design Patterns",
+    "author": "William Sanders",
+    "pages": 362,
+    "category": "php",
+    "ISBN": "978-1-4493-4491-7",
+    "thumbSmall": "assets/img/08-sm.jpg",
+    "thumbLarge": "assets/img/08-lg.jpg",
+    "resume": "Build server-side applications more efficiently—and improve your PHP programming skills in the process—by learning how to use design patterns in your code.",
+    "fullDescription": "<p>Build server-side applications more efficiently—and improve your PHP programming skills in the process—by learning how to use design patterns in your code. This book shows you how to apply several object-oriented patterns through simple examples, and demonstrates many of them in full-fledged working applications.</p><p>Learn how these reusable patterns help you solve complex problems, organize object-oriented code, and revise a big project by only changing small parts. With Learning PHP Design Patterns, you’ll learn how to adopt a more sophisticated programming style and dramatically reduce development time.</p>"
+  },
+
+  {
+    "title": "The Ruby Programming Language",
+    "author": "David Flanagan",
+    "pages": 448,
+    "category": "ruby",
+    "ISBN": "978-0-596-51617-8",
+    "thumbSmall": "assets/img/09-sm.jpg",
+    "thumbLarge": "assets/img/09-lg.jpg",
+    "resume": "The Ruby Programming Language is the authoritative guide to Ruby and provides comprehensive coverage of versions 1.8 and 1.9 of the language.",
+    "fullDescription": "<p>This book begins with a quick-start tutorial to the language, and then explains the language in detail from the bottom up: from lexical and syntactic structure to datatypes to expressions and statements and on through methods, blocks, lambdas, closures, classes and modules.</p><p>The book also includes a long and thorough introduction to the rich API of the Ruby platform, demonstrating -- with heavily-commented example code -- Ruby's facilities for text processing, numeric manipulation, collections, input/output, networking, and concurrency. An entire chapter is devoted to Ruby's metaprogramming capabilities.</p>"
+  },
+
+  {
+    "title": "PHP Web Services",
+    "author": "Lorna Mitchell",
+    "pages": 118,
+    "category": "php",
+    "ISBN": "978-1-4493-5656-9",
+    "thumbSmall": "assets/img/10-sm.jpg",
+    "thumbLarge": "assets/img/10-lg.jpg",
+    "resume": "Whether you’re sharing data between two internal systems or building an API so users can access their data, this practical book provides everything you need to build web service APIs with PHP.",
+    "fullDescription": "<p>Whether you’re sharing data between two internal systems or building an API so users can access their data, this practical book provides everything you need to build web service APIs with PHP. Author Lorna Jane Mitchell uses code samples, real-world examples, and advice based on her extensive experience to guide you through the process—from the underlying theory to methods for making your service robust.</p><p>PHP is ideally suited for both consuming and creating web services. You’ll learn how to use this language with JSON, XML, and other web service technologies.</p>"
+  },
+
+  {
+    "title": "MongoDB: The Definitive Guide",
+    "author": "Kristina Chodorow",
+    "pages": 432,
+    "category": "nosql",
+    "ISBN": "978-1-4493-4468-9",
+    "thumbSmall": "assets/img/11-sm.jpg",
+    "thumbLarge": "assets/img/11-lg.jpg",
+    "resume": "Manage the huMONGOus amount of data collected through your web application with MongoDB. This authoritative introduction shows you the many advantages of using document-oriented databases.",
+    "fullDescription": "<p>Manage the huMONGOus amount of data collected through your web application with MongoDB. This authoritative introduction—written by a core contributor to the project—shows you the many advantages of using document-oriented databases, and demonstrates how this reliable, high-performance system allows for almost infinite horizontal scalability.</p><p>This updated second edition provides guidance for database developers, advanced configuration for system administrators, and an overview of the concepts and use cases for other people on your project. Ideal for NoSQL newcomers and experienced MongoDB users alike, this guide provides numerous real-world schema design examples.</p>"
+  },
+
+  {
+    "title": "Ruby Best Practices",
+    "author": "Gregory T Brown",
+    "pages": 336,
+    "category": "ruby",
+    "ISBN": "978-0-596-52300-8",
+    "thumbSmall": "assets/img/12-sm.jpg",
+    "thumbLarge": "assets/img/12-lg.jpg",
+    "resume": "How do you write truly elegant code with Ruby? Ruby Best Practices is for programmers who want to use Ruby as experienced Rubyists do.",
+    "fullDescription": "<p>How do you write truly elegant code with Ruby? Ruby Best Practices is for programmers who want to use Ruby as experienced Rubyists do. Written by the developer of the Ruby project Prawn, this concise book explains how to design beautiful APIs and domain-specific languages with Ruby, as well as how to work with functional programming ideas and techniques that can simplify your code and make you more productive. You'll learn how to write code that's readable, expressive, and much more. </p><p>This book also offers you comprehensive chapters on driving code through tests, designing APIs, and project maintenance. Learn how to make the most of this rich, beautiful language with Ruby Best Practices.</p>"
+  }
+]

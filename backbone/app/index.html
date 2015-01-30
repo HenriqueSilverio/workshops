@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="pt-br">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>Workshop Backbone.js</title>
+
+    <link rel="stylesheet" href="assets/vendor/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="assets/css/main.css">
+</head>
+<body>
+    <div class="container">
+        <div class="masthead">
+            <h3 class="text-muted">BookStore</h3>
+            <nav id="menu-region"></nav>
+        </div>
+
+
+        <div id="main-region"></div>
+
+
+        <footer class="footer">
+            <p>&copy; BookStore</p>
+        </footer>
+    </div>
+
+
+    <!-- Templates -->
+    <script id="menu-item" type="text/template">
+        <a href="<%= url %>"><%= name %></a>
+    </script>
+
+    <script id="book-item" type="text/template">
+        <img src="<%= thumbSmall %>">
+        <h2 class="h4"><%= title %></h2>
+        <p><%= resume %></p>
+        <p><a class="btn btn-primary js-show-details" href="#book/<%= id %>" role="button">View details &raquo;</a></p>
+    </script>
+
+    <script id="book-details" type="text/template">
+        <div class="col-lg-4">
+            <img src="<%= thumbLarge %>">
+        </div>
+        <div class="col-lg-8">
+            <h2><%= title %></h2>
+            <%= fullDescription %>
+            <ul>
+                <li><b>Author:</b> <%= author %></li>
+                <li><b>Pages:</b> <%= pages %></li>
+                <li><b>ISBN:</b> <%= ISBN %></li>
+            </ul>
+        </div>
+    </script>
+
+
+    <!-- JavaScript Libraries -->
+    <script src="assets/js/libs/jquery.min.js"></script>
+    <script src="assets/js/libs/underscore.min.js"></script>
+    <script src="assets/js/libs/backbone.min.js"></script>
+    <script src="assets/js/libs/backbone.localStorage.min.js"></script>
+
+
+    <!-- Application Modules -->
+    <script src="assets/js/app.js"></script>
+
+    <script src="assets/js/entities/menu.js"></script>
+    <script src="assets/js/views/menu-item.js"></script>
+    <script src="assets/js/views/menu.js"></script>
+
+    <script src="assets/js/entities/book.js"></script>
+    <script src="assets/js/views/book.js"></script>
+    <script src="assets/js/views/books.js"></script>
+    <script src="assets/js/views/book-details.js"></script>
+
+    <script src="assets/js/router.js"></script>
+
+
+    <!-- Application Bootstrap -->
+    <script src="assets/js/main.js"></script>
+</body>
+</html>
